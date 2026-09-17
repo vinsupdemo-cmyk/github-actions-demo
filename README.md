@@ -26,3 +26,7 @@ cd my-project
 ## screenshot
 
 ![Project Screenshot](image.jpg)
+
+## video
+
+![Project Video](video.mp4)
