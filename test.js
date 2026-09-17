@@ -1,6 +1,6 @@
 const add = require('./index.js')
 
-const result = add (10,20)
+const result = add (50,20)
 
 if (result === 30){
     console.log('test passed')    
