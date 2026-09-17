@@ -22,3 +22,7 @@ cd my-project
 ```
 
 ` npm install `
+
+## screenshot
+
+![Project Screenshot](image.jpg)
